@@ -1,3 +1,2 @@
 # FengRusong
-just play
-try
+Just try to play!
